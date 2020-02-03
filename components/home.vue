@@ -69,3 +69,20 @@ module.exports = {
   }
 };
 </script>
+<style>
+.margins {
+  padding: 40px 30px;
+}
+.full-width {
+  width: 100%;
+}
+.small {
+  font-size: 8px;
+  color: #c0c0c0;
+}
+.bottom {
+  position: absolute;
+  bottom: 5px;
+  margin: 0 auto;
+}
+</style>
