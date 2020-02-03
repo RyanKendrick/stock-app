@@ -1,0 +1,17 @@
+{
+  "name": "electron-stock-market",
+  "version": "1.0.0",
+  "main": "./main",
+  "private": true,
+  "dependencies": {
+    "electron": "^1.7.8",
+    "vue": "^2.5.9",
+    "vue-resource": "^1.3.4",
+    "techan": "0.8.0",
+    "d3": "4.12.0"
+  },
+  "devDependencies": {
+    "browserify": "^14.5.0",
+    "vueify": "^9.4.1"
+  }
+}
